@@ -6,5 +6,7 @@ Goal of the projects is to provide secure and simple for small village for hiden
 
 This static web site to be placed as "dev.opzlab.com" and "project-88288.github.io"
 
+This implement a push web-hook.
+
 ## dev.opzlabs.com
 ## project-88288.github.io
